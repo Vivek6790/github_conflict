@@ -15,3 +15,8 @@ resource "azurerm_resource_group" "rg" {
   name     = "rgG18"
   location = "West US"
 }
+
+resource "azurerm_resource_group" "rg1" {
+  name     = "rg-vivek"
+  location = "West US"
+}
