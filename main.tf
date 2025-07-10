@@ -18,5 +18,5 @@ resource "azurerm_resource_group" "rg" {
 
 resource "arurerm_resource_group" "bilal-ka-rg" {
   name ="bilal-ka-rg"
-  location =" bilal-ki-location"
+  location =" centralindia"
 }
