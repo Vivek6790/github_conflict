@@ -15,3 +15,8 @@ resource "azurerm_resource_group" "rg" {
   name     = "rgG18"
   location = "West US"
 }
+
+resource "arurerm_resource_group" "bilal-ka-rg" {
+  name ="bilal-ka-rg"
+  location =" bilal-ki-location"
+}
