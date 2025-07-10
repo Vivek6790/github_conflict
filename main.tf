@@ -15,7 +15,14 @@ resource "azurerm_resource_group" "rg" {
   name     = "rgG18"
   location = "West US"
 }
+
 resource "azurerm_resource_group" "rg2" {
   name     = "rg-vivek2"
   location = "West US"
+
+
+resource "arurerm_resource_group" "bilal-ka-rg" {
+  name ="bilal-ka-rg"
+  location =" centralindia"
+
 }
